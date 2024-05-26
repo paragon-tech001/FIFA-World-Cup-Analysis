@@ -1,4 +1,4 @@
-## <p align = "center"> FIFA-World-Cup-Analysis </p>
+# <p align = "center"> FIFA-World-Cup-Analysis </p>
 
 ![](https://github.com/paragon-tech001/FIFA-World-Cup-Analysis/blob/main/World%20Cup%20logo.png)
 
